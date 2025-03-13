@@ -3,7 +3,7 @@ package com.ohgiraffers.f_activity.mission;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class ApplicationTests {
+public class ApplicationTests01 {
     @Test
     public void calculate() {
         String result = Application.caculate("Java is Fun");
