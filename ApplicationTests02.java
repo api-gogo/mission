@@ -3,7 +3,7 @@ package com.ohgiraffers.d_activity.mission;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class MyAnswerTest {
+class ApplicationTests02 {
 
     @Test
     public void DayCheck() {
